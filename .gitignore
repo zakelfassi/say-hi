@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-ssr
+.DS_Store
+*.local
+.vite
+coverage
+.env
+.env.*
+!.env.example
+
+# iterative dev screenshots (S-tier README shots live in .github/screenshots)
+.design/
+
+# tsc incremental cache
+*.tsbuildinfo
